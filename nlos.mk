@@ -2,6 +2,13 @@
 # Published under the terms of gnu copyleft
 # gpl-2
 
+# remove LineageOS Updater
+
+PRODUCT_PACKAGES += \
+    remove_Updater
+
+# Weather providers
+
 PRODUCT_PACKAGES += \
     OpenWeatherMapWeatherProvider \
     WundergroundWeatherProvider
