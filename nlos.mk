@@ -2,6 +2,11 @@
 # Published under the terms of gnu copyleft
 # gpl-2
 
+# NLOS Arts
+
+PRODUCT_PACKAGES += \
+    NLOSbootanimation.zip
+
 # remove LineageOS Updater
 
 PRODUCT_PACKAGES += \
