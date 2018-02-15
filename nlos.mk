@@ -4,8 +4,8 @@
 
 # NLOS Arts
 
-#PRODUCT_PACKAGES += \
-#    NLOSbootanimation.zip
+PRODUCT_PACKAGES += \
+    NLOSbootanimation.zip
 
 # remove LineageOS Updater
 
