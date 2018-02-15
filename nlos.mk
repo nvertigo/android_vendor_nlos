@@ -4,8 +4,8 @@
 
 # NLOS Arts
 
-PRODUCT_PACKAGES += \
-    NLOSbootanimation.zip
+#PRODUCT_PACKAGES += \
+#    NLOSbootanimation.zip
 
 # remove LineageOS Updater
 
@@ -14,6 +14,6 @@ PRODUCT_PACKAGES += \
 
 # Weather providers
 
-PRODUCT_PACKAGES += \
-    OpenWeatherMapWeatherProvider \
-    WundergroundWeatherProvider
+#PRODUCT_PACKAGES += \
+#    OpenWeatherMapWeatherProvider \
+#    WundergroundWeatherProvider
