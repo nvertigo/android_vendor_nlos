@@ -17,3 +17,8 @@ PRODUCT_PACKAGES += \
 #PRODUCT_PACKAGES += \
 #    OpenWeatherMapWeatherProvider \
 #    WundergroundWeatherProvider
+
+# GoogleCamera modded by Arnova
+
+PRODUCT_PACKAGES += \
+    GoogleCamera
