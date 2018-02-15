@@ -14,9 +14,9 @@ PRODUCT_PACKAGES += \
 
 # Weather providers
 
-#PRODUCT_PACKAGES += \
-#    OpenWeatherMapWeatherProvider \
-#    WundergroundWeatherProvider
+PRODUCT_PACKAGES += \
+    YahooWeatherProvider \
+    WundergroundWeatherProvider
 
 # GoogleCamera modded by Arnova
 
