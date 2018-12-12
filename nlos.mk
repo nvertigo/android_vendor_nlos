@@ -14,7 +14,7 @@ PRODUCT_PACKAGES += \
 
 # Weather providers
 
-PRODUCT_PACKAGES += \
-    YahooWeatherProvider \
-    WundergroundWeatherProvider \
-    OpenWeatherMapProvider
+#PRODUCT_PACKAGES += \
+#    YahooWeatherProvider \
+#    WundergroundWeatherProvider \
+#    OpenWeatherMapProvider
