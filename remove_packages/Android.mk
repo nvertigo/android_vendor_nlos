@@ -2,6 +2,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := remove_Updater
+LOCAL_SRC_FILES := empty_local_src_file.c
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
 LOCAL_OVERRIDES_PACKAGES := Updater
