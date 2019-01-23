@@ -16,3 +16,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     OpenWeatherMapProvider
+
+# Additional permissions
+PRODUCT_COPY_FILES += \
+    vendor/nlos/configs/permissions-nlos.xml:system/etc/permissions/permissions-nlos.xml
