@@ -20,4 +20,4 @@ PRODUCT_PACKAGES += \
 
 # Additional permissions
 PRODUCT_COPY_FILES += \
-    vendor/nlos/configs/permissions-nlos.xml:system/etc/permissions/permissions-nlos.xml
+    vendor/nlos/configs/privapp-permissions-nlos.xml:system/etc/permissions/privapp-permissions-nlos.xml
