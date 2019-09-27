@@ -7,11 +7,10 @@
 PRODUCT_PACKAGES += \
     NLOSbootanimation.zip
 
-# remove Packages (targets defined in remove_packages/Android.mk)
+# remove LineageOS Updater
 
 PRODUCT_PACKAGES += \
-    remove_Updater \
-    remove_AudioFX
+    remove_Updater
 
 # Weather providers
 
