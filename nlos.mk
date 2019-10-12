@@ -17,6 +17,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     OpenWeatherMapProvider
 
+# Long screenshot
+
+PRODUCT_PACKAGES += \
+    Longshot
+
 # Additional permissions
 PRODUCT_COPY_FILES += \
     vendor/nlos/configs/privapp-permissions-nlos.xml:system/etc/permissions/privapp-permissions-nlos.xml
