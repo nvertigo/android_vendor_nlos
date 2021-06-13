@@ -22,6 +22,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Longshot
 
+# Bromite System Webview
+
+PRODUCT_PACKAGES += \
+    bromite-webview
+
 # Additional permissions
 PRODUCT_COPY_FILES += \
     vendor/nlos/configs/privapp-permissions-nlos.xml:system/etc/permissions/privapp-permissions-nlos.xml
